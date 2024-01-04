@@ -1,4 +1,4 @@
-# SQL Learning
-Comprehensive repository for your SQL goals.
-Solutions to every SQL questions you can find on internet ;) 
-HackeRank, LeetCode will be the source :)
+# SQL
+Comprehensive repository for SQL geeks.
+Repository contains unique Presto SQL solutions which you might be searching for :)
+
